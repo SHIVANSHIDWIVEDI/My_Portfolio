@@ -1,4 +1,4 @@
-# 📝 Responsive Resume Website
+# 📝 Responsive Portfolio Website
 
 A **modern, responsive, and interactive resume** built using **HTML, CSS, and JavaScript**. This project serves as a digital alternative to traditional resumes, allowing easy sharing and showcasing of skills, experience, and projects.
 
